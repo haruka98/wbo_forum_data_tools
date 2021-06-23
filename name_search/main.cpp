@@ -28,9 +28,9 @@ int main(int argc, char* argv[]) {
 		{{ "Goreim", "Golem" }, 0 },
 		{{ "Begirados", "Behemoth" }, 0 },
 		{{ "Genbu" }, 0 },	// includes Genbull
-		{{ "Balro" }, 0 },
+		{{ "Balro" }, 0 },	// no Hasbro release
 		{{ "Girago", "Zirago" }, 0 },
-		{{ "Wyvang" }, 0 },
+		{{ "Wyvang" }, 0 },	// no Hasbro release
 		{{ "Pegasis", "Pegasus" }, 0 },
 		{{ "Bahamdia", "Bahamoote" }, 0 }
 	};
